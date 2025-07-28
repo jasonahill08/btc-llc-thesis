@@ -5,7 +5,6 @@ title: Resume
 [Home](./index.md)
 
 # Jason A. Hill
-...
 
 **Email:** [jason.hill.tech@pm.me](mailto:jason.hill.tech@pm.me)  
 **Location:** Based in Vietnam (U.S. Citizen)  
