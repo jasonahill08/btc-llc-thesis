@@ -1,8 +1,9 @@
+[Home](./index.md)
+
 # Jason A. Hill
 
 **Email:** [jason.hill.tech@pm.me](mailto:jason.hill.tech@pm.me)  
 **Location:** Based in Covington, KY
-**LinkedIn:** _None — deplatformed, by choice_  
 **Portfolio:** [Why Start an LLC to Stack BTC](./index.md)
 
 ---
