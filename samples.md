@@ -1,9 +1,3 @@
----
-layout: default
-title: "Writing Samples"
-permalink: /samples/
----
-
 [Home](./index.md) | [Resume](./resume.md)
 
 # ✍️ Writing Samples
