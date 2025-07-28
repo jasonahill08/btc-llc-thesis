@@ -23,3 +23,11 @@ An operations-focused standard procedure document for managing consumable and du
 **Summary:**  
 An internal SOP and research document outlining a fairer instructor evaluation system using weighted scoring, z-score normalization, and behavioral analytics. Applied across quarterly cohorts.  
 [📄 View Word PDF](./assets/instructor-performance-evaluation-sop.pdf)
+
+---
+
+## 4. Story Articles on Storyboardart.org  
+**Title:** Various articles on storyboardart.org  
+**Summary:**  
+A collection of film related articles I wrote as a copy writer for a popular storyboaring hub.  
+[Jason's Story Articles](https://storyboardart.org/author/jason-hill/)
