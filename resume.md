@@ -1,5 +1,3 @@
-[Home](./index.md)
-
 # Jason A. Hill
 
 **Email:** [jason.hill.tech@pm.me](mailto:jason.hill.tech@pm.me)  
