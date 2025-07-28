@@ -1,7 +1,3 @@
----
-layout: default
-title: Resume
----
 [Home](./index.md)
 
 # Jason A. Hill
