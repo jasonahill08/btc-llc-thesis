@@ -14,7 +14,7 @@ This article, adapted from my master's thesis, applies both statistical and qual
 **Title:** Inventory Tracking and Acquisition SOP  
 **Summary:**  
 An operations-focused standard procedure document for managing consumable and durable educational inventory. Designed to streamline supply forecasting, acquisition, and team usage behavior.  
-[📄 View Word Doc](./assets/inventory-tracking.pdf)
+[📄 View Word PDF](./assets/inventory-tracking.pdf)
 
 ---
 
@@ -22,4 +22,4 @@ An operations-focused standard procedure document for managing consumable and du
 **Title:** Instructor Performance Evaluation – Weighted Scoring  
 **Summary:**  
 An internal SOP and research document outlining a fairer instructor evaluation system using weighted scoring, z-score normalization, and behavioral analytics. Applied across quarterly cohorts.  
-[📄 View Word Doc](./assets/instructor-performance-evaluation-sop.pdf)
+[📄 View Word PDF](./assets/instructor-performance-evaluation-sop.pdf)
