@@ -8,13 +8,13 @@
 
 ---
 
-## 🎯 Profile
+##  Profile
 
 Researcher, writer, and documentation lead with 8+ years of experience in operations, team leadership, and internal communications. Currently building a private Bitcoin treasury company using mining and yield strategies. Interested in joining Bitcoin-native teams in content, research, or operations. Strong background in technical documentation, SOPs, and strategic planning.
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 - Bitcoin mining operations and treasury strategy  
 - Technical writing & SOP documentation  
@@ -26,7 +26,7 @@ Researcher, writer, and documentation lead with 8+ years of experience in operat
 
 ---
 
-## 🧠 Bitcoin Focus
+##  Bitcoin Focus
 
 - First BTC purchase in 2017, full-time maxi since 2021  
 - Operate a private BTC treasury company (LLC structure)  
@@ -36,7 +36,7 @@ Researcher, writer, and documentation lead with 8+ years of experience in operat
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Blue Force Inc. — Instructor Supervisor (2017–2025)**  
 Managed a 60-person staff on U.S. military English training contract.  
@@ -50,7 +50,7 @@ Managed a 60-person staff on U.S. military English training contract.
 
 ---
 
-## 🎓 Education
+##  Education
 
 **M.A. in International Studies**  
 Concordia University Irvine — 2013  
@@ -60,7 +60,7 @@ San Francisco State University — 2001
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Email:** [jason.hill.tech@pm.me](mailto:jason.hill.tech@pm.me)  
 **No LinkedIn.** I operate independently and value sovereignty in work and money.  
