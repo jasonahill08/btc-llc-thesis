@@ -1,4 +1,4 @@
-# Why Start an LLC to Stack Bitcoin
+# Nanostrategy - Why Start an LLC to Stack Bitcoin
 
 Bitcoin offers a new paradigm for storing value, preserving wealth, and building economic sovereignty. But stacking sats personally has limitations, especially for those thinking long-term. This paper outlines why structuring your Bitcoin accumulation through a business, such as an LLC or trust, provides superior options for growth, protection, and leverage.
 
