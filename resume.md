@@ -75,14 +75,9 @@ Bitcoin-focused researcher, writer, and capital strategist with 15+ years of exp
 
 ## 🎓 Education & Certifications
 
-**M.A., International Studies** – University of Oregon  
-**A.S., Filmmaking** – Minneapolis Community & Technical College  
-
-**Federal Certifications (U.S. DoD, 2024):**  
-- CTIP General Awareness  
-- OPSEC Awareness for DoD Personnel  
-- Cybersecurity Awareness  
-- Controlled Unclassified Information (CUI) Training
+**M.A., International Studies** – Concordia University Irvine 2015  
+**B.S., Cinema Studies** – San Francisco State University 2010 
+**A.S., Filmmaking** – Minneapolis Community & Technical College 2005
 
 ---
 
