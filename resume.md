@@ -52,7 +52,7 @@ Bitcoin-focused researcher, writer, and capital strategist with 15+ years of exp
 
 ## ✍ Writing & Research Samples
 
-[Previous writing and more recent works]([https://github.com/jasonahill08/btc-llc-thesis](https://github.com/jasonahill08/btc-llc-thesis/blob/main/samples.md))
+**Previous writing and more recent works.**([https://github.com/jasonahill08/btc-llc-thesis](https://github.com/jasonahill08/btc-llc-thesis/blob/main/samples.md)
 
 ---
 
