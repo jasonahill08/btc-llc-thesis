@@ -1,66 +1,92 @@
 [Home](./index.md)
 
-# Jason A. Hill
-
-**Email:** [jason.hill.tech@pm.me](mailto:jason.hill.tech@pm.me)  
-**Location:** Based in Covington, KY
-<br>**My latest work:** [Why Start an LLC to Stack BTC](./index.md)
-
----
-
-##  Profile
-
-Researcher, writer, and documentation lead with 8+ years of experience in operations, team leadership, and internal communications. Currently building a private Bitcoin treasury company using mining and yield strategies. Interested in joining Bitcoin-native teams in content, research, or operations. Strong background in technical documentation, SOPs, and strategic planning.
+# Jason A. Hill  
+**Call Sign:** *Harvestr*  
+**Location:** Covington, KY / Global  
+**Email:** [jason.hill.tech@proton.me]  
+**GitHub:** [https://github.com/jasonahill08](https://github.com/jasonahill08)  
 
 ---
 
-##  Skills
+## 🧭 Professional Summary
 
-- Bitcoin mining operations and treasury strategy  
-- Technical writing & SOP documentation  
-- Research & policy analysis  
-- Internal operations and team systems  
-- Data visualization (Excel, Power BI)  
-- SQL (learning), Tableau (learning)  
-- Remote and cross-cultural team coordination
+Bitcoin-focused researcher, writer, and capital strategist with 15+ years of experience across education, technical documentation, and financial systems. Founder of a private Bitcoin treasury company using a non-dilutive LLC-based model (“Nanostrategy”) to accumulate and protect long-term BTC-denominated assets. Skilled in research, content creation, and capital structuring with a focus on education, decentralization, and privacy. Currently seeking to contribute to Bitcoin-first teams in research, mining, education, or content development.
 
 ---
 
-##  Bitcoin Focus
+## 💼 Core Skills
 
-- First BTC purchase in 2017, full-time maxi since 2021  
-- Operate a private BTC treasury company (LLC structure)  
-- Familiar with ASIC mining, dividend-based capital stacking  
-- Author of *Why Start an LLC to Stack Bitcoin*  
-- Available for freelance, part-time, or contract work with serious Bitcoin teams
-
----
-
-##  Experience
-
-**Blue Force Inc. — Instructor Supervisor (2017–2025)**  
-Managed a 60-person staff on U.S. military English training contract.  
-- Created documentation systems, SOPs, and team performance tracking  
-- Led internal process improvement projects in budgeting and resource management  
-- Coordinated daily operations between admin, teaching, and leadership teams  
-
-**Administrative Coordinator — Blue Force Inc. (2017–2018)**  
-- Developed onboarding and scheduling systems during contract transition  
-- Built long-lasting internal databases and communication templates
+- **Bitcoin Capital Strategy** (LLC/Trust-Based Structuring, Private Treasury Ops)  
+- **Technical & Educational Writing** (SOPs, white papers, explainers)  
+- **Cross-Cultural Research & Data Analysis**  
+- **Scriptwriting, Pitches, and Content Planning**  
+- **Adobe Premiere (Editing, Timing, Narration)**  
+- **Markdown, GitHub Pages, Lightweight Web Publishing**  
+- **Content Operations: Slide Decks, Case Studies, Video Scripts**
 
 ---
 
-##  Education
+## 🏢 Professional Experience
 
-**M.A. in International Studies**  
-Concordia University Irvine — 2013  
+### Founder – AaduByte Digital  
+**Private Bitcoin Treasury Company** | *2023–Present*  
+- Developed and deployed a unique Bitcoin accumulation strategy via an LLC structure, targeting long-term BTC-denominated growth.  
+- Produced educational content explaining legal, financial, and tax advantages of LLC-based Bitcoin ownership.  
+- Generated over $100K in BTC-based income through monthly MSTY dividends and mining operations.  
+- Leads strategic planning, capital deployment, and internal documentation.
 
-**B.A. in Cinema Studies**  
-San Francisco State University — 2001  
+### Instructor Supervisor – BlueForce Inc. (DoD Contractor)  
+**Royal Saudi Air Force Program** | *2017–2025*  
+- Managed cross-cultural teams delivering English instruction to RSAF cadets in support of F-15 maintenance and logistics programs.  
+- Designed and implemented instructor performance evaluation systems using weighted, data-informed metrics.  
+- Coordinated training compliance with U.S. Department of Defense standards.  
+- Earned multiple federal training certifications in security, cybersecurity, and compliance.
+
+### Graduate Researcher – University of Oregon  
+**International Studies Program** | *2013–2015*  
+- Conducted mixed-methods research on American cinema's influence on over 600 Chinese film students.  
+- Analyzed survey data, authored a cross-cultural thesis, and presented findings across departments.  
+- Demonstrated strengths in data synthesis, narrative framing, and research communications.
 
 ---
 
-##  Contact
+## ✍ Writing & Research Samples
+
+[Why Start an LLC to Stack Bitcoin](https://github.com/jasonahill08/btc-llc-thesis)  
+
+---
+
+## 🎬 Video & Editing Portfolio
+
+- Edited 60–90 second video explainers using Adobe Premiere  
+- Developed all scripts, narration, and storyboarding  
+- Focused on timing, clarity, and minimalist visual design  
+- Videos showcase technical writing + content delivery skill set
+
+---
+
+## 🔍 Goals for Bitcoin Asia 2025
+
+- Join a Bitcoin-native company working on capital structuring, education, or institutional onboarding  
+- Explore freelance or contract opportunities in research, writing, or educational content production  
+- Build peer relationships with miners, treasurers, and strategic thinkers in the Bitcoin ecosystem
+
+---
+
+## 🎓 Education & Certifications
+
+**M.A., International Studies** – University of Oregon  
+**A.S., Filmmaking** – Minneapolis Community & Technical College  
+
+**Federal Certifications (U.S. DoD, 2024):**  
+- CTIP General Awareness  
+- OPSEC Awareness for DoD Personnel  
+- Cybersecurity Awareness  
+- Controlled Unclassified Information (CUI) Training
+
+---
+
+*References, GitHub repos, and case studies available upon request.*
 
 **Email:** [jason.hill.tech@pm.me](mailto:jason.hill.tech@pm.me)  
 **No LinkedIn.** I operate independently and value sovereignty in work and money.  
