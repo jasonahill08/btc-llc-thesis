@@ -3,7 +3,7 @@
 # Jason A. Hill  
 **Call Sign:** *Harvestr*  
 **Location:** Covington, KY / Global  
-**Email:** [jason.hill.tech@proton.me]  
+**Email:** jason.hill.tech@proton.me
 **GitHub:** [https://github.com/jasonahill08](https://github.com/jasonahill08)  
 
 ---
