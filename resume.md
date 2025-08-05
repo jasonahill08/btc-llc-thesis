@@ -8,13 +8,13 @@
 
 ---
 
-## 🧭 Professional Summary
+## Professional Summary
 
 Bitcoin-focused researcher, writer, and capital strategist with 15+ years of experience across education, technical documentation, and financial systems. Founder of a private Bitcoin treasury company using a non-dilutive LLC-based model (“Nanostrategy”) to accumulate and protect long-term BTC-denominated assets. Skilled in research, content creation, and capital structuring with a focus on education, decentralization, and privacy. Currently seeking to contribute to Bitcoin-first teams in research, mining, education, or content development.
 
 ---
 
-## 💼 Core Skills
+## Core Skills
 
 - **Bitcoin Capital Strategy** (LLC/Trust-Based Structuring, Private Treasury Ops)  
 - **Technical & Educational Writing** (SOPs, white papers, explainers)  
@@ -26,7 +26,7 @@ Bitcoin-focused researcher, writer, and capital strategist with 15+ years of exp
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 
 ### Founder – AaduByte Digital  
 **Private Bitcoin Treasury Company** | *2023–Present*  
@@ -50,13 +50,13 @@ Bitcoin-focused researcher, writer, and capital strategist with 15+ years of exp
 
 ---
 
-## ✍ Writing & Research Samples
+## Writing & Research Samples
 
 [Writing Samples](https://github.com/jasonahill08/btc-llc-thesis/blob/main/samples.md)
 
 ---
 
-## 🎬 Video & Editing Portfolio
+## Video & Editing Portfolio
 
 - Edited 60–90 second video explainers using Adobe Premiere  
 - Developed all scripts, narration, and storyboarding  
@@ -65,7 +65,7 @@ Bitcoin-focused researcher, writer, and capital strategist with 15+ years of exp
 
 ---
 
-## 🔍 Goals for Bitcoin Asia 2025
+## Goals for Bitcoin Asia 2025
 
 - Join a Bitcoin-native company working on capital structuring, education, or institutional onboarding  
 - Explore freelance or contract opportunities in research, writing, or educational content production  
@@ -73,7 +73,7 @@ Bitcoin-focused researcher, writer, and capital strategist with 15+ years of exp
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 **M.A., International Studies** – Concordia University Irvine 2015  
 **B.S., Cinema Studies** – San Francisco State University 2010 
